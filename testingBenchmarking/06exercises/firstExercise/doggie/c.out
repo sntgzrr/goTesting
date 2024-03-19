@@ -1,0 +1,5 @@
+mode: set
+testing/testingBenchmarking/06exercises/firstExercise/doggie/doggie.go:5.21,7.2 1 1
+testing/testingBenchmarking/06exercises/firstExercise/doggie/doggie.go:10.24,12.25 2 1
+testing/testingBenchmarking/06exercises/firstExercise/doggie/doggie.go:12.25,14.3 1 1
+testing/testingBenchmarking/06exercises/firstExercise/doggie/doggie.go:15.2,15.14 1 1
